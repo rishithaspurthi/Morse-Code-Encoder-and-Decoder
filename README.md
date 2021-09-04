@@ -1,1 +1,1 @@
-# Morse-Code-Encoder-and-Decoder
+# MorseCode-Encoder-and-Decoder
